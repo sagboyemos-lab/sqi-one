@@ -88,7 +88,7 @@ ul .menu {
 .body {
     width: 100%;
     height: auto;
-    background-image: linear-gradient(to top, rgba(0, 0, 91, 0.788), rgba(165, 42, 42, 0.492)), url(image/Exec-class-scaled.jpg);
+    background-image: linear-gradient(to top, rgba(0, 0, 91, 0.788), rgba(165, 42, 42, 0.492)), url(/image/Exec-class-scaled.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
